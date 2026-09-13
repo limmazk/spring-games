@@ -5,7 +5,7 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class Game {
+public class Anime {
 
     private Long id;
     private String name;
